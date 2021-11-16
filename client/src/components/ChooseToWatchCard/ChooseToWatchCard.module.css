@@ -1,0 +1,7 @@
+.wrapper{
+  border: solid black 1px;
+  padding: 0px 20px;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+}
